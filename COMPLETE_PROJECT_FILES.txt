@@ -6,7 +6,7 @@
 WITH DIFFERENTIAL PRIVACY & EXPLAINABLE AI
 
 ================================================================================
-📄 WORD DOCUMENT (NEW!)
+📄 WORD DOCUMENT 
 ================================================================================
 
 ✅ Federated_Learning_IDS_Project_Overview.docx (13 KB)
@@ -75,7 +75,7 @@ WITH DIFFERENTIAL PRIVACY & EXPLAINABLE AI
 ================================================================================
 
 ✅ Hybrid_IDS_XAI_with_Federated_Learning.ipynb (67 KB)
-   - Your original notebook ENHANCED with federated learning
+   - Your original notebook  with federated learning
    - 44 cells: 40 original + 4 new (federated learning section)
    - Section 3.5 contains: DifferentialPrivacy & FederatedClient classes
    - Ready to run in Google Colab or Jupyter
@@ -98,7 +98,7 @@ WITH DIFFERENTIAL PRIVACY & EXPLAINABLE AI
    - 5-minute read
 
 ✅ ENHANCED_NOTEBOOK_GUIDE.md
-   - Detailed guide to enhanced notebook
+   - Detailed guide to  notebook
    - What was added (4 cells)
    - Cell-by-cell explanation
    - 10-minute read
@@ -237,7 +237,7 @@ WORD DOCUMENT: 1 professional report
 TOTAL: 17 FILES | 1.5 MB
 
 ================================================================================
-✅ WHAT'S IN THE WORD DOCUMENT (NEW!)
+✅ WHAT'S IN THE WORD DOCUMENT 
 ================================================================================
 
 "Federated_Learning_IDS_Project_Overview.docx"
@@ -395,8 +395,5 @@ DELIVERABLES ✓
 3. UNDERSTAND: Review the guides and visualizations
 4. IMPLEMENT: Follow the deployment timeline
 
-All files are in: /mnt/user-data/outputs/
-
-Next step: Download the Word document!
 
 ================================================================================
